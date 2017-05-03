@@ -1,0 +1,27 @@
+#######################################################
+#  keywords.txt - keywords file for the ePaper library
+
+
+#######################################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+ePaper	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+
+writeDisplay	KEYWORD2
+writeBottom	KEYWORD2
+writeTop	KEYWORD2
+writeNumberBottom	KEYWORD2
+writeNumberTop	KEYWORD2
+
+
+#######################################
+# Constants (LITERAL1)
+#######################################
